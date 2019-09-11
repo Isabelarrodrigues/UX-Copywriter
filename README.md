@@ -13,7 +13,7 @@ Bom desafio!
 
 # O Desafio
 
-## 1) Precisamos que você produza dois e-mails. 
+## Precisamos que você produza dois e-mails. 
 
 ### O primeiro e-mail:
 Você trabalha em uma fábrica de parafusos e as vendas online estão baixas, seu gestor te orienta a escrever um e-mail para mandar para a base de clientes que costuma comprar no seu site. Você pode usar a linguagem que preferir, fazer a promoção que desejar, mas não se esqueça, você precisa convencer o cliente a comprar pelo valor, não pelo preço.
