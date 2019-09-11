@@ -11,13 +11,13 @@ Sobre o desafio:
 
 Não temos prazo para entrega, queremos que você se dedique e demonstre a qualidade da sua entrega. Estamos mais interessados em observar a qualidade da solução do que o tempo que você vai demorar.
 
-Quando sua solução estiver pronta, envie um e-mail para isabela.rodrigues@stone.com.br. Em seguida, enviaremos o feedback e as instruções dos próximos passos!
+Quando sua solução estiver pronta, envie para o e-mail isabela.rodrigues@stone.com.br. Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
 Bom desafio!
 
 # O Desafio
 
-## Precisamos que você produza dois e-mails. 
+Precisamos que você produza dois e-mails. 
 
 ### O primeiro e-mail:
 Você trabalha em uma fábrica de parafusos e as vendas online estão baixas, seu gestor te orienta a escrever um e-mail para mandar para a base de clientes que costuma comprar no seu site. Você pode usar a linguagem que preferir, fazer a promoção que desejar, mas não se esqueça, você precisa convencer o cliente a comprar pelo valor, não pelo preço.
