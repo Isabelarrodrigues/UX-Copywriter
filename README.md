@@ -15,7 +15,8 @@ Bom desafio!
 
 ## 1) Precisamos que você produza dois e-mails. 
 
-### O primeiro, você trabalha em uma fábrica de parafusos e as vendas online estão baixas, seu gestor te orienta a escrever um e-mail para mandar para a base de clientes que costuma comprar no seu site. Você pode usar a linguagem que preferir, fazer a promoção que desejar, mas não se esqueça, você precisa convencer o cliente a comprar pelo valor, não pelo preço.
+### O primeiro:
+Você trabalha em uma fábrica de parafusos e as vendas online estão baixas, seu gestor te orienta a escrever um e-mail para mandar para a base de clientes que costuma comprar no seu site. Você pode usar a linguagem que preferir, fazer a promoção que desejar, mas não se esqueça, você precisa convencer o cliente a comprar pelo valor, não pelo preço.
 
 Envie também uma sugestão de titulo e resumo.
 
@@ -24,7 +25,8 @@ O que é esperado de você:
 - Habilidade de convencer o leitor e vender o produto
 - Boas práticas de e-mail marketing
 
-### O segundo, você está em uma empresa que produz comida congelada. O setor de qualidade informou que a comida contém a presença de um material químico que eles ainda não descobriram, mas você precisa informar a todos os consumidores que eles não podem consumir o alimento. 
+### O segundo:
+Você está em uma empresa que produz comida congelada. O setor de qualidade informou que a comida contém a presença de um material químico que eles ainda não descobriram, mas você precisa informar a todos os consumidores que eles não podem consumir o alimento. 
 
 Seria interessante enviar também sugestão de titulo e resumo.
 
